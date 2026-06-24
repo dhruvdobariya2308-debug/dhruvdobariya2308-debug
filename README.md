@@ -81,7 +81,7 @@ Teaching:
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+    img src="https://github-readme-stats.vercel.app/api?username=dhruv123&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
