@@ -1,123 +1,87 @@
 
-# Hi 👋, I'm Dhruv
+<!-- Animated Banner -->
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Dhruv&fontAlign=50&fontAlignY=40&fontSize=70&desc=Full%20Stack%20Developer%20|%20Tech%20Educator%20|%20Open%20Source&descAlignY=60&animation=fadeIn" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Educator;Lifelong+Learner;Building+Awesome+Projects+🚀" alt="Typing SVG" />
+<h1 align="center">👋 Hey, I'm Dhruv</h1>
 
-</div>
+<h3 align="center">
+🚀 Full Stack Developer • 🤖 AI Enthusiast • 👨‍🏫 Mentor
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=🚀+Building+Scalable+Applications;💡+Solving+Real+World+Problems;🤖+Learning+Artificial+Intelligence;👨‍🏫+Teaching+Developers;🌟+Open+Source+Contributor" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-- 🔭 Currently working on **Amazing Projects**
-- 🌱 Learning **AI, Cloud & DevOps**
-- 👨‍🏫 Passionate about **Teaching Programming**
-- 💬 Ask me about **Web Development, Python, JavaScript**
-- 📫 Reach me: **your.email@example.com**
-- ⚡ Fun fact: **I turn coffee into code ☕**
+```yaml
+Name: Dhruv
+Role: Full Stack Developer
 
-<br clear="both"/>
+Focus:
+  - Web Development
+  - Artificial Intelligence
+  - Cloud Computing
+  - Open Source
 
----
+Learning:
+  - Kubernetes
+  - DevOps
+  - Generative AI
 
-## 🛠️ Skills
+Teaching:
+  - React.js
+  - Node.js
+  - Python
+  - Git & GitHub
+````
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
-</p>
-
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,php" />
-</p>
-
-### Database
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase" />
-</p>
-
-### Tools & Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode" />
-</p>
+* 🔭 Currently building modern web applications
+* 🌱 Exploring AI, Cloud & DevOps
+* 👨‍🏫 Helping developers learn coding
+* 💬 Ask me about React, JavaScript, Python
+* ⚡ Fun Fact: I turn coffee ☕ into code 💻
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Tech Arsenal
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django,mongodb,mysql,postgres,firebase,docker,aws,git,github,linux,vscode&perline=10" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|------------|------------|
-| Project One | Modern Web App | React, Node.js, MongoDB |
-| Project Two | Mobile Application | Flutter, Firebase |
-| AI Project | AI Automation Tool | Python, FastAPI, OpenAI |
-
----
-
-## 👨‍🏫 Teaching
-
-### Topics I Teach
-
-- Web Development
-- JavaScript & TypeScript
-- Python Programming
-- Data Structures & Algorithms
-- Git & GitHub
-- AI & Machine Learning
-- Cloud Computing
-
-### Community Activities
-
-- 🎤 Workshops
-- 📝 Technical Blogs
-- 🎥 Coding Tutorials
-- 🤝 Mentorship
-
----
-
-## 🏆 Achievements
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 📈 Contribution Activity
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_PROFILE">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://twitter.com/YOUR_PROFILE">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-
-<a href="https://youtube.com/@YOUR_CHANNEL">
-<img src="https://skillicons.dev/icons?i=youtube" />
-</a>
-
-<a href="https://discord.com/users/YOUR_ID">
-<img src="https://skillicons.dev/icons?i=discord" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -125,24 +89,34 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 📈 Profile Views
+## 🌐 Connect With Me
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_PROFILE">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://twitter.com/YOUR_PROFILE">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+<a href="https://youtube.com/@YOUR_CHANNEL">
+<img src="https://skillicons.dev/icons?i=youtube"/>
+</a>
 </p>
 
 ---
 
-<div align="center">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+</p>
 
-### ⭐ Code • Build • Teach • Inspire
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Happy+Coding!+🚀" />
-
-</div>
-```
