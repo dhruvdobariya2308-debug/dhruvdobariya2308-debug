@@ -1,4 +1,4 @@
-````markdown
+
 <!-- Animated Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6a11cb,100:2575fc&text=Dhruv&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Tech%20Educator%20|%20Open%20Source%20Contributor&descAlignY=60&descSize=18" />
@@ -25,12 +25,11 @@
 </p>
 
 ---
-
+````
 ## 🙋‍♂️ About Me
 
 <img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-```yaml
 Name: Dhruv
 Role: Full Stack Developer
 Focus:
