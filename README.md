@@ -1,60 +1,148 @@
+```markdown
+# Hi 👋, I'm Your Name
 
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6a11cb,100:2575fc&text=Dhruv&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Tech%20Educator%20|%20Open%20Source%20Contributor&descAlignY=60&descSize=18" />
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Educator;Lifelong+Learner;Building+Awesome+Projects+🚀" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🔭 Currently working on **Amazing Projects**
+- 🌱 Learning **AI, Cloud & DevOps**
+- 👨‍🏫 Passionate about **Teaching Programming**
+- 💬 Ask me about **Web Development, Python, JavaScript**
+- 📫 Reach me: **your.email@example.com**
+- ⚡ Fun fact: **I turn coffee into code ☕**
+
+<br clear="both"/>
+
+---
+
+## 🛠️ Skills
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Dhruv</h1>
-
-<h3 align="center">
-🚀 Full Stack Developer • 👨‍🏫 Tech Educator • 🌍 Open Source Contributor
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=🚀+Building+Amazing+Projects;💡+Solving+Real+World+Problems;👨‍🏫+Teaching+Developers;🤖+Exploring+AI+and+Cloud;🌟+Always+Learning+New+Things" />
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,php" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github&color=blue" />
-  </a>
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase" />
+</p>
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=brightgreen" />
-
-  <img src="https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge&logo=github" />
+### Tools & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode" />
 </p>
 
 ---
-````
-## 🙋‍♂️ About Me
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+## 📊 GitHub Stats
 
-Name: Dhruv
-Role: Full Stack Developer
-Focus:
-  - Web Development
-  - Artificial Intelligence
-  - Cloud Computing
-  - Open Source
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
-Currently Learning:
-  - Kubernetes
-  - DevOps
-  - Generative AI
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
-Teaching:
-  - React.js
-  - Node.js
-  - Python
-  - Git & GitHub
-````
+---
 
-* 🔭 Building scalable applications
-* 🌱 Learning AI, Cloud & DevOps
-* 👨‍🏫 Teaching programming and mentoring developers
-* 💬 Ask me about React, Node.js, Python
-* ⚡ Fun Fact: I turn coffee into code ☕
+## 🚀 Featured Projects
 
-<br clear="both"/>
+| Project | Description | Tech Stack |
+|----------|------------|------------|
+| Project One | Modern Web App | React, Node.js, MongoDB |
+| Project Two | Mobile Application | Flutter, Firebase |
+| AI Project | AI Automation Tool | Python, FastAPI, OpenAI |
+
+---
+
+## 👨‍🏫 Teaching
+
+### Topics I Teach
+
+- Web Development
+- JavaScript & TypeScript
+- Python Programming
+- Data Structures & Algorithms
+- Git & GitHub
+- AI & Machine Learning
+- Cloud Computing
+
+### Community Activities
+
+- 🎤 Workshops
+- 📝 Technical Blogs
+- 🎥 Coding Tutorials
+- 🤝 Mentorship
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_PROFILE">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://twitter.com/YOUR_PROFILE">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="https://youtube.com/@YOUR_CHANNEL">
+<img src="https://skillicons.dev/icons?i=youtube" />
+</a>
+
+<a href="https://discord.com/users/YOUR_ID">
+<img src="https://skillicons.dev/icons?i=discord" />
+</a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
+
+---
+
+## 📈 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Code • Build • Teach • Inspire
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Happy+Coding!+🚀" />
+
+</div>
 ```
