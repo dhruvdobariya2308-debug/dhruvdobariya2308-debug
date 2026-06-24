@@ -89,7 +89,7 @@ Teaching:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+   <img src="https://raw.githubusercontent.com/actual-username/actual-username/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
