@@ -68,8 +68,8 @@ Teaching:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  ## 📊 GitHub Stats
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruv&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
