@@ -1,159 +1,91 @@
-# 🚀 README.md
-<h1 align="center">Hi 👋, I'm Dhruv</h1>
-
-<h3 align="center">Full Stack Developer | Tech Educator | Open Source Contributor</h3>
+# <p align="center">⚡ DHRUV // FULL STACK ENGINEER & TECH EDUCATOR ⚡</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Educator;Lifelong+Learner;Building+Amazing+Projects+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=2000&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&lines=%E2%96%B6+Executing+Full+Stack+Architectures...;%E2%96%B6+Scaling+Open+Source+Ecosystems...;%E2%96%B6+Empowering+The+Next+Gen+Of+Devs...;%E2%96%B6+Turning+Coffee+Into+Production+Code...🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00FFCC,30,0077B5,70,9900FF&height=120&section=header&text=%20&fontSize=90" width="100%" />
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+## 🌌 Executive Summary
 
 <p align="center">
-  <img align="right" alt="Coding Animation" width="320" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYwZndidXN0YzZ0Z3I3b3ptb3M1ZndpZ3ZicWZ6amp4N29wY3Z6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img align="right" src="https://github.com/user-attachments/assets/1ffb337c-d6d7-4638-b118-ff3599cf76f7" width="280" alt="Cyberpunk Tech Graphic" />
 </p>
 
-- 🔭 **Current Focus:** Engineering scalable full-stack applications and open-source assets.
-- 🌱 **Expanding Horizon:** Diving deep into AI integration, Cloud Architecture, and DevOps pipelines.
-- 👨‍🏫 **Passion:** Breaking down complex programming concepts to mentor aspiring developers.
-- 💬 **Let's Talk Tech:** Ask me about JavaScript ecosystems, Python automation, React, or System Design.
-- 📫 **Drop an Email:** [your@email.com](mailto:your@email.com)
-- ⚡ **Fun Fact:** I convert high-quality coffee into production-ready code. ☕
+- 🔭 **Current Directive:** Architecting high-throughput full-stack platforms and performance-tuned microservices.
+- 🌱 **Deep Tech Exploration:** Demystifying AI integration matrix, Edge-computing, and declarative Cloud Native GitOps.
+- 👨‍🏫 **Core Mission:** Distilling complex engineering paradigms into practical, actionable mentorship pathways.
+- 💬 **Core Competencies:** Advanced JavaScript ecosystems, Python scripting automation, React, and Database Normalization.
+- 📫 **Secure Channel:** [your@email.com](mailto:your@email.com)
 
 <br clear="both"/>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Ecosystem & Deep Tech Stack
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      🔍 <b>Frontend Core & Frameworks</b>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
-    </td>
-    <td valign="top" width="50%">
-      ⚙️ <b>Backend Logic & Runtime</b>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,php" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      🗄️ <b>Database Systems</b>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase" />
-    </td>
-    <td valign="top" width="50%">
-      ☁️ <b>DevOps, Cloud & Tools</b>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,python,django,java,php,mysql,mongodb,postgresql,firebase,git,github,docker,aws,linux,vscode&perline=8" />
+</p>
 
 ---
 
-## 📁 Featured Projects
-
-| Platform | Project Description | Core Architecture | Demo / Repo |
-| :--- | :--- | :--- | :---: |
-| 🌐 **Portfolio Website** | Polished personal sandbox displaying dynamic assets, custom animations, and responsive components. | `React` `Tailwind` | [View Code](#) |
-| 🛒 **E-Commerce Platform** | Comprehensive market infrastructure featuring protected auth, stripe integrations, and inventory control. | `MERN Stack` | [View Code](#) |
-| 🤖 **AI Agent Assistant** | Autonomous productivity toolkit powered by open LLM models to parse contextual inputs. | `Python` `OpenAI` | [View Code](#) |
-| 📱 **Cross-Platform Mobile App** | Sleek mobile utility integrating real-time state sync and serverless workflows. | `Flutter` `Firebase` | [View Code](#) |
-
----
-
-## 👨‍🏫 Teaching & Mentorship
+## 📁 Elite Codebase Showcases
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 Syllabus Core</h3>
-      <ul>
-        <li><b>Web Fundamentals:</b> Semantic HTML, Responsive CSS layout execution & Advanced ES6+ JS.</li>
-        <li><b>Framework Mastery:</b> React component life cycles, hooks architecture, and Next.js SSR.</li>
-        <li><b>Backend Systems:</b> Python logic scripting, OOP paradigms, and RESTful API structures.</li>
-        <li><b>Production Basics:</b> Version control strategies, DSA practices, and scalable Cloud deployments.</li>
-      </ul>
+      <h3>🌐 Advanced Next.js Portfolio</h3>
+      <blockquote>Production-grade digital architectural terminal showcasing dynamic content handling, structural smooth renders, and tailored UX parameters.</blockquote>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📢 Active Formats</h3>
-      <ul>
-        <li>🎤 <b>Interactive Workshops:</b> Live multi-hour developer bootcamps.</li>
-        <li>📝 <b>Technical Writing:</b> Crafting comprehensive technical case studies.</li>
-        <li>🎥 <b>Video Production:</b> Code-along guides for educational channels.</li>
-        <li>🤝 <b>1-on-1 Guidance:</b> Structuring roadmap design for young engineers.</li>
-      </ul>
+      <h3>🛒 E-Commerce Cloud Infrastructure</h3>
+      <blockquote>State-driven merchant network processing integrated API endpoints, ironclad JWT credentials, and active financial processing webhooks.</blockquote>
+      <p>
+        <img src="https://img.shields.io/badge/MERN_Stack-000000?style=flat-square&logo=mongodb&logoColor=green" />
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Autonomous LLM Engine</h3>
+      <blockquote>Context-aware programmatic execution engine utilizing continuous stream modeling to build fluid user productivity solutions.</blockquote>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 Cross-Platform Ecosystem</h3>
+      <blockquote>Native-performance cross-compiled mobile software architecture synchronizing streaming cloud states seamlessly.</blockquote>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 Developer Metrics & Stats
+## 👨‍🏫 Mentorship & Knowledge Architecture
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Dhruv's Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+```yaml
+Instructional_Verticall:
+  Frontend_Specialization: [ "Semantic layouts", "State trees", "Hooks management" ]
+  Backend_Architectures:   [ "API contracts", "Database clustering", "Schema logic" ]
+  Operations:              [ "Automated CI/CD", "Git environments", "Cloud strategies" ]
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="Commit Streak" />
-</p>
-
-### 📈 Global Contribution Trajectory
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" alt="Activity Graph" />
-</p>
-
----
-
-## 🌟 Professional Milestones
-
-* 🚀 **20+ Custom Applications** deployed and actively running.
-* 💡 Dedicated engineer within multiple **Open Source Repositories**.
-* 👨‍🏫 Guided and supported **hundreds of developers** transition into Web Dev paths.
-* 📚 Content publisher detailing optimization mechanics and code practices.
-
----
-
-## 🐍 Contribution Snake Game
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</p>
-
----
-
-## 🌐 Let's Build Something Together
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_PROFILE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://twitter.com/YOUR_PROFILE" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://youtube.com/@YOUR_CHANNEL" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
-
-<h3 align="center">⭐ Code • Build • Teach • Inspire ⭐</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Happy+Coding!+🚀" alt="Footer Typing View" />
-</p>
+Active_Distribution:
+  - "Interactive Technical Workshops & Live Bootcamps"
+  - "Deep-Dive Technical Case-Studies & Architectural Blogging"
+  - "Production-Ready Streamed Content Codealongs"
