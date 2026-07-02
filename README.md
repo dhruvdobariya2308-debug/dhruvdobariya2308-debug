@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Dhruv&fontAlign=50&fontAlignY=40&fontSize=70&desc=Full%20Stack%20Developer%20|%20Tech%20Educator%20|%20Open%20Source&descAlignY=60&animation=fadeIn" />
 </p>
 
-<h1 align="center">👋 Hey, gabani is rand</h1>
+<h1 align="center">👋 Hey, i am dhruv</h1>
 
 <h3 align="center">
 🚀 Full Stack Developer • 🤖 AI Enthusiast • 👨‍🏫 Mentor
